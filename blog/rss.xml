@@ -4,10 +4,20 @@
         <title>宇的网站 Blog</title>
         <link>https://huangxy03.github.io/blog</link>
         <description>宇的网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://huangxy03.github.io/blog/first-blog-post</link>
+            <guid>https://huangxy03.github.io/blog/first-blog-post</guid>
+            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[我喜欢吃大西瓜]]></description>
+            <content:encoded><![CDATA[<p>我喜欢吃大西瓜</p>]]></content:encoded>
+            <category>hobby</category>
+            <category>Docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://huangxy03.github.io/blog/welcome</link>
@@ -73,7 +83,7 @@
             <guid>https://huangxy03.github.io/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>我喜欢吃大西瓜</p>]]></content:encoded>
             <category>Hola</category>
             <category>Docusaurus</category>
         </item>
